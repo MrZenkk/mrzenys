@@ -12,8 +12,8 @@ My name is Alexander, I'm a Student from Romania, passionate about programming, 
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/luizmellodev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://discord.gg/wruSYsAZvx">
+    <img src="https://img.shields.io/badge/Discord-Discord-blue" />
   </a>
 
 
