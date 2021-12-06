@@ -6,7 +6,7 @@ My name is Alexander, I'm a Student from Romania, passionate about programming, 
 - 🔭 I’m currently founder as DreamLife & AloneStars.
 - 🌱 I’m currently learning Node and UX/UI Design!
 - :ballot_box_with_check: My goal is to become a developer capable of solving real problems (=
-- ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@mrzenys](https://www.instagram.com/mrzenys) (Portuguese content)
+- ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@mrzenys](https://www.instagram.com/mrzenys)
 
   <a href="hhttps://www.instagram.com/mrzenys">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
