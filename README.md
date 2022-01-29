@@ -1,5 +1,4 @@
 # Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
- ![Snake animation](https://github.com/luizeduardomr/luizeduardomr/blob/output/github-contribution-grid-snake.svg)
 
 My name is Alexander, I'm a Student from Romania, passionate about programming, technology, design, music, dance, literature, reading books! ☕💜
 
