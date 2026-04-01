@@ -7,7 +7,7 @@ My name is Alexander, I'm a Student from Romania, passionate about programming, 
 📫 How to reach me: alexmarius094@gmail.com
 ⚡ Fun fact: I Love Singing and Coding.
 
-  <a href="https://www.instagram.com/zenk.ro/" target="_blank">
+  <a href="https://www.instagram.com/serpin.ro/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
@@ -27,7 +27,7 @@ My name is Alexander, I'm a Student from Romania, passionate about programming, 
   - [Discord Server](https://discord.gg/qTjZTrwqQY)
   - [AloneStars](https://alonestars.eu/TrippieArka)
   - [TikTok](https://www.tiktok.com/@trippiearka?is_from_webapp=1&sender_device=pc)
-  - [Instagram](https://www.instagram.com/zenk.ro/)
+  - [Instagram](serpin.ro)
  
 
   </details>
